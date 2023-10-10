@@ -1,2 +1,3 @@
-# NetBeansProjects
- Learning Java
+# Learning Java
+ My first steps.
+ Not finished yet.
