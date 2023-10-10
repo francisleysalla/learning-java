@@ -4,7 +4,6 @@
 
 package francisleysalla.idiomadosistema;
 import java.util.Locale;
-
 /**
  *
  * @author Francisco
@@ -12,7 +11,7 @@ import java.util.Locale;
 public class IdiomaDoSistema {
 
     public static void main(String[] args) {
-        Locale language = Locale.getDefault();
+        Locale language = Locale.getDefault(Locale.Category.DISPLAY);
         System.out.println("A língua do sistema é " + language);
         
     }
