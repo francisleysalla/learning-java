@@ -1,0 +1,4 @@
+--patch-module
+francisleysalla.olamundojavafx=_
+--add-reads
+francisleysalla.olamundojavafx=ALL-UNNAMED
