@@ -39,7 +39,7 @@ public class MainJFrame extends javax.swing.JFrame {
         earth.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/earth.png"))); // NOI18N
 
         lblDesc.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        lblDesc.setText("O idioma do sistema é");
+        lblDesc.setText("Idioma do sistema:");
 
         lblOut.setFont(new java.awt.Font("Segoe UI", 0, 20)); // NOI18N
         lblOut.setForeground(new java.awt.Color(115, 33, 0));

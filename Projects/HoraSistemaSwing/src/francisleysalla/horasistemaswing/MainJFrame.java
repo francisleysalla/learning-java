@@ -41,7 +41,7 @@ public class MainJFrame extends javax.swing.JFrame {
         schedule.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/schedule.png"))); // NOI18N
 
         lblDesc.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        lblDesc.setText("A hora do sistema é");
+        lblDesc.setText("Horário do sistema:");
 
         lblOut.setFont(new java.awt.Font("Segoe UI", 0, 20)); // NOI18N
         lblOut.setForeground(new java.awt.Color(115, 33, 0));
