@@ -40,7 +40,7 @@ public class MainJFrame extends javax.swing.JFrame {
         maximize.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/maximize.png"))); // NOI18N
 
         lblDesc.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        lblDesc.setText("A resolução de tela do sistema é");
+        lblDesc.setText("Resolução da tela:");
 
         lblOut.setFont(new java.awt.Font("Segoe UI", 0, 20)); // NOI18N
         lblOut.setForeground(new java.awt.Color(115, 33, 0));
@@ -71,7 +71,7 @@ public class MainJFrame extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addGap(35, 35, 35)
                         .addComponent(btnClick)))
-                .addContainerGap(26, Short.MAX_VALUE))
+                .addContainerGap(79, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
