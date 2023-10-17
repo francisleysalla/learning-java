@@ -19,4 +19,5 @@ Dentro da pasta Executables estão os arquivos .jar dos meus projetos.
 - **StringAndInt**: Aprendendo a coverter dados do tipo _String_ para o tipo _Integer_ e vice-versa
 - **CalculadoraIdade**: Calculando a idade de alguém com base na data de nascimento.  
 Ícones utilizados: <a href="https://www.flaticon.com/free-icons/person" title="person icons">Person icons created by Freepik - Flaticon</a>, <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Freepik - Flaticon</a>
-
+- **OperadoresUnarios**: Diferença entre um operador unário pré-fixado e um pós-fixado.
+- **ClassMath**: Um exercício extra utilizando vários métodos da classe Math.
