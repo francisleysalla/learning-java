@@ -21,7 +21,7 @@ Dentro da pasta Executables estão os arquivos .jar dos projetos que contém int
 Ícones utilizados: <a href="https://www.flaticon.com/free-icons/person" title="person icons">Person icons created by Freepik - Flaticon</a> e <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Freepik - Flaticon</a>
 - **OperadoresUnarios**: Diferença entre um operador unário pré-fixado e um pós-fixado.
 - **ClassMath**: Um exercício extra utilizando vários métodos da classe Math.
-- **SuperCalculadora**: Mostrando o resultado de algumas operações envolvendo um número escolhido.
+- **SuperCalculadora**: Mostrando o resultado de algumas operações envolvendo um número escolhido.  
 Ícones utilizados: <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Pixel perfect - Flaticon</a> e <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Freepik - Flaticon</a>
 - **DescubraNumero**: Tente descobrir o número entre 1 e 5.
 - **CondicionalSimples**: Estruturas condicionais simples em Java.
