@@ -1,16 +1,16 @@
 # Aprendendo Java
-Dentro da pasta Executables estão os arquivos .jar dos meus projetos.  
+Dentro da pasta Executables estão os arquivos .jar dos projetos que contém interfaces gráficas
  
  Meus primeiros passos:
- - **PrimeiroPrograma**: Um simples Olá, Mundo!
- - **HoraDoSistema**: Mostrando o horário do sistema
- - **IdiomaDoSistema**: Mostrando o idioma do sistema
- - **ResolucaoTela**: Mostrando a resolução da tela
- - **OlaMundoSwing**: Olá, Mundo! utilizando o Swing
- - **OlaMundoSwingAnt**: Um teste da diferença entre Ant e Maven
- - **OlaMundoJavaFX**: Olá, Mundo! utilizando o JavaFX
- - **HoraSistemaSwing**: Mostrando o horário do sistema em uma interface gráfica.    
- Ícone utilizado: <a href="https://www.flaticon.com/free-icons/calendar" title="calendar icons">Calendar icons created by Freepik - Flaticon</a>
+- **PrimeiroPrograma**: Um simples Olá, Mundo!
+- **HoraDoSistema**: Mostrando o horário do sistema
+- **IdiomaDoSistema**: Mostrando o idioma do sistema
+- **ResolucaoTela**: Mostrando a resolução da tela
+- **OlaMundoSwing**: Olá, Mundo! utilizando o Swing
+- **OlaMundoSwingAnt**: Um teste da diferença entre Ant e Maven
+- **OlaMundoJavaFX**: Olá, Mundo! utilizando o JavaFX
+- **HoraSistemaSwing**: Mostrando o horário do sistema em uma interface gráfica.    
+Ícone utilizado: <a href="https://www.flaticon.com/free-icons/calendar" title="calendar icons">Calendar icons created by Freepik - Flaticon</a>
 - **IdiomaSistemaSwing**: Mostrando o idioma do sistema em uma interface gráfica.  
 Ícone utilizado: <a href="https://www.flaticon.com/free-icons/world" title="world icons">World icons created by Freepik - Flaticon</a>
 - **ResolucaoTelaSwing**: Mostrando a resolução da tela em uma interface gráfica.  
@@ -24,4 +24,7 @@ Dentro da pasta Executables estão os arquivos .jar dos meus projetos.
 - **SuperCalculadora**: Mostrando o resultado de algumas operações envolvendo um número escolhido.
 Ícones utilizados: <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Pixel perfect - Flaticon</a> e <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Freepik - Flaticon</a>
 - **DescubraNumero**: Tente descobrir o número entre 1 e 5.
+- **CondicionalSimples**: Estruturas condicionais simples em Java.
+- **CondicionalComposta**: Estruturas condicionais compostas em Java.
+- **ParImpar**: Utilizando condicionais para dizer se um número é par ou ímpar.
 
