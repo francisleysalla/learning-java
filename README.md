@@ -27,4 +27,6 @@ Dentro da pasta Executables estão os arquivos .jar dos projetos que contém int
 - **CondicionalSimples**: Estruturas condicionais simples em Java.
 - **CondicionalComposta**: Estruturas condicionais compostas em Java.
 - **ParImpar**: Utilizando condicionais para dizer se um número é par ou ímpar.
+- **CalculadoraDelta**: Calculadora do delta de uma equação de segundo grau.
+- **FormulaQuadratica**: Calculadora de equações do segundo grau.
 
