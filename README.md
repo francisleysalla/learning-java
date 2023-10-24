@@ -29,4 +29,7 @@ Dentro da pasta Executables estão os arquivos .jar dos projetos que contém int
 - **ParImpar**: Utilizando condicionais para dizer se um número é par ou ímpar.
 - **CalculadoraDelta**: Calculadora do delta de uma equação de segundo grau.
 - **FormulaQuadratica**: Calculadora de equações do segundo grau.
+- **TipoVoto**: Com base na data de nascimento da pessoa, diz com precisão se o voto é facultativo, obrigatório ou proibido.
+- **NumeroPernas**: Um exemplo de como a estrutura condicional `switch` pode ser utilizada.
+
 
