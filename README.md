@@ -33,4 +33,3 @@ Dentro da pasta Executables estão os arquivos .jar dos projetos que contém int
 - **NumeroPernas**: Um exemplo de como a estrutura condicional `switch` pode ser utilizada.
 - **TipoTriangulo**: Mostrando qual é o tipo do triângulo com base no tamanho dos lados.
 Ícone utilizado: <a href="https://www.flaticon.com/free-icons/triangle" title="triangle icons">Triangle icons created by Freepik - Flaticon</a>
-
