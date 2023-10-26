@@ -34,3 +34,5 @@ Dentro da pasta Executables estão os arquivos .jar dos projetos que contém int
 - **TipoTriangulo**: Mostrando qual é o tipo do triângulo com base no tamanho dos lados.
 Ícone utilizado: <a href="https://www.flaticon.com/free-icons/triangle" title="triangle icons">Triangle icons created by Freepik - Flaticon</a>
 - **Contador**: Comportamento de `break` e `continue` dentro de estruturas de repetição.
+- **CalculadoraFatorial**: Calculando o fatorial de um número.  
+Ícone utilizado: <a href="https://www.flaticon.com/free-icons/factorial" title="factorial icons">Factorial icons created by Freepik - Flaticon</a>
